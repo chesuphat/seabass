@@ -1,0 +1,8 @@
+{
+  "name": "seabass-online",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "577b498d"
+}
